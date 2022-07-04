@@ -6201,12 +6201,12 @@ gatsby-plugin-react-helmet@^5.17.0:
   dependencies:
     "@babel/runtime" "^7.15.4"
 
-gatsby-plugin-react-svg@^2.1.1:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-react-svg/-/gatsby-plugin-react-svg-2.1.2.tgz#e5aa026ece1a8aa3319bf10a8e20cf4595aec932"
-  integrity sha512-y2vqiI/+bW8UPNL8628NwoX6kHtM4WJz6CiHPc9fhvSUa2Y8wriFJnGl1K249/9RXomOUQhl7r7JOuVhweSl1w==
+gatsby-plugin-react-svg@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-react-svg/-/gatsby-plugin-react-svg-3.1.0.tgz#00269f182793f1f624bbfb9817608f6ee26f7b70"
+  integrity sha512-OiEeTRQ+tzf7YrOnj87uMD6AGRl7BKxogAp1CUDtfiP+WGWZ99S5PeDLHJW5ExxGH1NVzWlNgtJjNmJhDksPhg==
   dependencies:
-    svg-react-loader "^0.4.4"
+    svg-react-loader "^0.4.6"
 
 gatsby-plugin-sitemap@^2.12.0:
   version "2.12.0"
@@ -10465,7 +10465,7 @@ supports-preserve-symlinks-flag@^1.0.0:
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
-svg-react-loader@^0.4.4:
+svg-react-loader@^0.4.6:
   version "0.4.6"
   resolved "https://registry.yarnpkg.com/svg-react-loader/-/svg-react-loader-0.4.6.tgz#b263efb3e3d2fff4c682a729351aba5f185051a1"
   integrity sha512-HVEypjWQsQuJdBIPzXGxpmQsQts7QwfQuYgK1rah6BVCMoLNSCh/ESKVNd7/tHq8DkWYHHTyaUMDA1FjqZYrgA==
