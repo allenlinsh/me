@@ -12,7 +12,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "firebase": "^9.8.4",
+    "firebase": "^9.9.0",
     "gatsby": "^4.4.0",
     "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-offline": "^5.17.0",
